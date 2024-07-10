@@ -1,7 +1,6 @@
 export default function Home() {
   return (
-      <main className="flex min-h-screen flex-col p-6">
-        home
+      <main className="min-h-screen flex flex-col p-6 bg-gray-400">
       </main>
   );
 }
